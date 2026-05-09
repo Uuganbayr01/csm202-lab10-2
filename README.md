@@ -57,4 +57,4 @@
 - `testEnsureCapacityWithHead` — `head` дунд байх үед өргөтгөлийг тестлэх
 
 ## JaCoCo Хамралтын Тайлан
-![Coverage](screenshots/coverage.png)
+![Coverage](coverage.png)

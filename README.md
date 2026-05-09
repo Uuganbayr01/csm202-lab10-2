@@ -56,21 +56,5 @@
 - `testEnsureCapacity` — array өргөтгөлийг тестлэх
 - `testEnsureCapacityWithHead` — `head` дунд байх үед өргөтгөлийг тестлэх
 
-## Тест ажиллуулах
-
-```bash
-cd Java
-mvn test
-```
-
-## Хамралтын тайлан харах
-```bash
-mvn test
-mvn jacoco:report
-start target/site/jacoco/index.html
-```
-## Технологи
-- Java 21
-- JUnit 4
-- JaCoCo 0.8.11
-- Maven
+## JaCoCo Хамралтын Тайлан
+![Coverage](screenshots/coverage.png)
